@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Book Shop college demo
 
 This is a small JSP and Servlet college project. It starts an embedded H2 database and loads demo data automatically, so **you do not need to install or start MySQL**.
@@ -30,3 +31,6 @@ From the `ebshop` folder run `mvn package`, then deploy `target/ebshop.war` to T
 Log in as the demo admin, add a book using **Book Entry Form**, then log out and sign up as a student. Browse the engineering categories, add books to the cart, and show the cart total. Password recovery uses the security question and answer saved during signup.
 
 This is a classroom demo, not a production store. Passwords are stored as plain text and there is no payment or order processing.
+=======
+# ebookshop
+>>>>>>> 574108769328a92ad17220192ea41c2bb529fc0a
